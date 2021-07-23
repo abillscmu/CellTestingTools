@@ -1,0 +1,7 @@
+name = "CellTestingTools"
+uuid = "98d40a31-544e-4f9a-96b3-a3b54e375771"
+authors = ["Alec Bills <abills@andrew.cmu.edu>"]
+version = "0.1.0"
+
+[deps]
+Dierckx = "39dd38d3-220a-591b-8e3c-4c3a8c710a94"
